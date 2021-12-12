@@ -32,7 +32,7 @@ class Scripted(object):
 │
 ├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
+├<b>💢 Source : <a href='https://youtu.be/2FHgg8o1YY8'>Click Here</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
